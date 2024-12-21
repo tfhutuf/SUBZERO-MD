@@ -1,9 +1,9 @@
 /*╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺
     ⭐ＰＲＯＪＥＣＴ ＮＡＭＥ:
-    ＳＵＢＺＥＲＯ ＷＨＡＴＳＡＰＰ ＭＤ ＢＯＴ
+    TAYLOR PALMER 
     
     ⭐ＤＥＶＥＬＯＰＥＲ
-     ＭＲ ＦＲＡＮＫ 
+     TAYLOR PALMER 
      
     ⭐ ＭＹ ＴＥＡＭ
      ＸＥＲＯ ＣＯＤＥＲＳ
@@ -25,7 +25,7 @@ function convertToBool(text, fault = 'true') {
 
 //--------------------------Mr Frank---------------------------------------
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "ENTER YOUR SUBZEFOSESSION HERE",
+SESSION_ID: process.env.SESSION_ID || "HF4R3bpJ#3RiosywL-_zelgGW2FgDiXIaTQiJ4RDGCj2DMB2GtOU",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", //TRUE OR FALSE
 MODE: process.env.MODE || "public",  // PRIVATE OR PUBLIC
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
